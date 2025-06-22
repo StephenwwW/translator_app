@@ -37,8 +37,8 @@
 
 1.  **克隆或下載專案**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/StephenwwW/translator-app.git
+    cd translator-app
     ```
 
 2.  **建立並啟用虛擬環境 (強烈推薦)**
