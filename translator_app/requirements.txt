@@ -1,0 +1,10 @@
+PyQt6
+deep-translator
+groq
+translators
+deepl
+google-generativeai
+edge-tts
+pyttsx3
+gTTS
+opencc-python-reimplemented
